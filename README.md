@@ -1,5 +1,5 @@
 mohammad hosein esmati
-backend developer(C#)
+backend developer(asp.net , C# , python)
 mashhad
 computer engineering 
 grafist and editor
